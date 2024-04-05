@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--ADMOB ORIGINAL ID-->
+    <string name="APP_ID">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="BANNER_ID">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="RECT_BANNER_ID">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="NATIVE_ID">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="INTER_ID">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="SPLASH_INTER_ID">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="OPEN_AD_ID">ca-app-pub-3940256099942544/9257395921</string>
+
+
+    <!--ADMOB TESTING ID-->
+    <string name="BANNER_TESTING_ID">/6499/example/banner</string>
+    <string name="INTER_TESTING_ID">/6499/example/interstitial</string>
+    <string name="OPEN_AD_TESTING_ID">ca-app-pub-3940256099942544/9257395921</string>
+
+
+
+    <!--PURCHASE ID-->
+    <string name="PURCHASE_ID">two.factor.authenticator.generate.ads.free</string>
+    <string name="MONTHLY_PURCHASE_ID">two.factor.authenticator.generate.month</string>
+    <string name="WEEKLY_PURCHASE_ID">two.factor.authenticator.generate.weekly</string>
+    <string name="YEARLY_PURCHASE_ID">two.factor.authenticator.generate.year</string>
+
+
+
+    <!--PRIVACY URL-->
+    <string name="privacy_url">https://honiryx.blogspot.com/2019/08/by-installing-and-using-our-apps-you.html</string>
+
+
+</resources>
