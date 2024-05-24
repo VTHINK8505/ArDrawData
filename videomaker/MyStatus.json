@@ -18,25 +18,4 @@
     }
   ],
   "code": "20"
-},
-{
-  "msg": [
-    {
-      "id": "3",
-      "title": "Sample Video 1",
-      "category": "Category A",
-      "video_thumb": "https://example.com/thumb1.jpg",
-      "video_link": "https://example.com/video1.mp4",
-      "video_zip": "https://example.com/video1.zip"
-    },
-    {
-      "id": "4",
-      "title": "Sample Video 2",
-      "category": "Category B",
-      "video_thumb": "https://example.com/thumb2.jpg",
-      "video_link": "https://example.com/video2.mp4",
-      "video_zip": "https://example.com/video2.zip"
-    }
-  ],
-  "code": "10"
 }
