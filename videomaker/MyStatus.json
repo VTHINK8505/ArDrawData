@@ -3,18 +3,18 @@
     {
       "id": "1",
       "title": "Sample Video 1",
-      "category": "Category A",
-      "video_thumb": "https://example.com/thumb1.jpg",
-      "video_link": "https://example.com/video1.mp4",
-      "video_zip": "https://example.com/video1.zip"
+      "category": "Sad",
+      "video_thumb": "https://raw.githubusercontent.com/ArDrawData/main/videomaker/01%20sad/10/10.jpg",
+      "video_link": "https://raw.githubusercontent.com/ArDrawData/main/videomaker/01%20sad/10/VU_1552400731_output.mp4",
+      "video_zip": "https://raw.githubusercontent.com/ArDrawData/main/videomaker/01%20sad/10/12_awarapan.zip"
     },
     {
       "id": "2",
       "title": "Sample Video 2",
-      "category": "Category B",
-      "video_thumb": "https://example.com/thumb2.jpg",
-      "video_link": "https://example.com/video2.mp4",
-      "video_zip": "https://example.com/video2.zip"
+      "category": "Sad",
+      "video_thumb": "https://raw.githubusercontent.com/ArDrawData/main/videomaker/01%20sad/11/TU_1561644428_thumbnail.jpg",
+      "video_link": "https://raw.githubusercontent.com/ArDrawData/main/videomaker/01%20sad/11/VU_1561644428_output.mp4",
+      "video_zip": "https://raw.githubusercontent.com/ArDrawData/main/videomaker/01%20sad/11/75_kabir_singh.zip"
     }
   ],
   "code": "20"
