@@ -1,82 +1,42 @@
-[
-  {
-    "id": "1",
-    "title": "Learning Java",
-    "category": "Education",
-    "video_thumb": "https://example.com/thumb1.jpg",
-    "video_link": "https://example.com/video1.mp4",
-    "video_zip": "https://example.com/video1.zip"
-  },
-  {
-    "id": "2",
-    "title": "Comedy Night",
-    "category": "Entertainment",
-    "video_thumb": "https://example.com/thumb2.jpg",
-    "video_link": "https://example.com/video2.mp4",
-    "video_zip": "https://example.com/video2.zip"
-  },
-  {
-    "id": "3",
-    "title": "Football Highlights",
-    "category": "Sports",
-    "video_thumb": "https://example.com/thumb3.jpg",
-    "video_link": "https://example.com/video3.mp4",
-    "video_zip": "https://example.com/video3.zip"
-  },
-  {
-    "id": "4",
-    "title": "Top 10 Hits",
-    "category": "Music",
-    "video_thumb": "https://example.com/thumb4.jpg",
-    "video_link": "https://example.com/video4.mp4",
-    "video_zip": "https://example.com/video4.zip"
-  },
-  {
-    "id": "5",
-    "title": "Wildlife Documentary",
-    "category": "Documentary",
-    "video_thumb": "https://example.com/thumb5.jpg",
-    "video_link": "https://example.com/video5.mp4",
-    "video_zip": "https://example.com/video5.zip"
-  },
-  {
-    "id": "6",
-    "title": "Stand-up Comedy",
-    "category": "Comedy",
-    "video_thumb": "https://example.com/thumb6.jpg",
-    "video_link": "https://example.com/video6.mp4",
-    "video_zip": "https://example.com/video6.zip"
-  },
-  {
-    "id": "7",
-    "title": "Dramatic Scenes",
-    "category": "Drama",
-    "video_thumb": "https://example.com/thumb7.jpg",
-    "video_link": "https://example.com/video7.mp4",
-    "video_zip": "https://example.com/video7.zip"
-  },
-  {
-    "id": "8",
-    "title": "Action Movie Trailer",
-    "category": "Action",
-    "video_thumb": "https://example.com/thumb8.jpg",
-    "video_link": "https://example.com/video8.mp4",
-    "video_zip": "https://example.com/video8.zip"
-  },
-  {
-    "id": "9",
-    "title": "Thriller Teaser",
-    "category": "Thriller",
-    "video_thumb": "https://example.com/thumb9.jpg",
-    "video_link": "https://example.com/video9.mp4",
-    "video_zip": "https://example.com/video9.zip"
-  },
-  {
-    "id": "10",
-    "title": "Horror Movie Clips",
-    "category": "Horror",
-    "video_thumb": "https://example.com/thumb10.jpg",
-    "video_link": "https://example.com/video10.mp4",
-    "video_zip": "https://example.com/video10.zip"
-  }
-]
+{
+  "msg": [
+    {
+      "id": "1",
+      "title": "Sample Video 1",
+      "category": "Category A",
+      "video_thumb": "https://example.com/thumb1.jpg",
+      "video_link": "https://example.com/video1.mp4",
+      "video_zip": "https://example.com/video1.zip"
+    },
+    {
+      "id": "2",
+      "title": "Sample Video 2",
+      "category": "Category B",
+      "video_thumb": "https://example.com/thumb2.jpg",
+      "video_link": "https://example.com/video2.mp4",
+      "video_zip": "https://example.com/video2.zip"
+    }
+  ],
+  "code": "20"
+},
+{
+  "msg": [
+    {
+      "id": "3",
+      "title": "Sample Video 1",
+      "category": "Category A",
+      "video_thumb": "https://example.com/thumb1.jpg",
+      "video_link": "https://example.com/video1.mp4",
+      "video_zip": "https://example.com/video1.zip"
+    },
+    {
+      "id": "4",
+      "title": "Sample Video 2",
+      "category": "Category B",
+      "video_thumb": "https://example.com/thumb2.jpg",
+      "video_link": "https://example.com/video2.mp4",
+      "video_zip": "https://example.com/video2.zip"
+    }
+  ],
+  "code": "10"
+}
